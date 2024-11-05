@@ -26,6 +26,11 @@ O intuido deste repositorio é aprender as melhores praticas de versionamento de
 |git log|verificar os commits presentes|
 |git clone|clona um repositorioo remoto|
 |git push|envia para o repositorio remoto a produção local|
+|git branch|para ver quantas ramificaçoes eu tenho|
+|git checkout -b "name"| Serve para criar uma nova ramificação|
+|git checkout main|para voltar a ramificação padrão|
+|git merge "nome da ramificação"|para mesclar a ramificação atual com a padrão|
+
 
 ## Instruções de configuração GIT
 |Instrução| Descrição|
